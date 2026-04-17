@@ -1,0 +1,114 @@
+.offon{
+    background-color: #0075ff;
+    width: 90px;
+    height: 35px;
+    border-radius: 30px;
+    position: relative;
+    right: 50px;
+    top: 10px;
+}
+.offon:hover{
+    background-color: #888;
+    
+}
+.bigcontentsetting{
+    position: relative;
+    left: 30px;
+}
+.bigcontentsetting p{
+    color: gray;
+}
+.bodysetting{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.littlecircle{
+    z-index: 1;
+    background-color:white;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    position: relative;
+    left: 537px;
+    top: 172px;
+}
+#inputpar{
+    width: 510px;
+    height: 23px;
+   
+    border-radius: 5px;
+}
+.textareabar{
+    margin: 20px;
+    
+    position: relative;
+    top: 30px;
+}
+.fa-brands{
+    position: relative;
+    left: 30px;
+    bottom: 9px;
+}
+.textareabar textarea{
+    background-color: #eee;
+    border: none;
+    
+}
+.onesquare{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.onesquare h3{
+     position: relative;
+    right: 300px;
+
+}
+.square{
+    background-color: #0075ff;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    right: 100px;
+}
+.square:hover{
+    border: 1px solid #0075ff;
+    border-radius: 10px;
+    background-color: white;
+
+}
+.threesquare{
+    display: flex;
+    margin: 30px;
+    gap: 40px;
+    align-items: center;
+}
+.onethreesquare{
+    background-color: #eee;
+    width: 140px;
+    height: 90px;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+    text-align: center;
+}
+.onethreesquare:hover{
+    background-color:#eee;
+    width: 140px;
+    height: 90px;
+    color: #0075ff;
+    border: 2px solid #0075ff;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.onethreesquare i{
+    position: relative;
+  
+    top: 10px;
+}
+.onethreesquare p:hover{
+    color: #0075ff;
+}

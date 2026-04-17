@@ -1,0 +1,10 @@
+.onecourse{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+}
+.courses{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
